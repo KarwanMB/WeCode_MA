@@ -122,7 +122,7 @@ Sipal Salam | 👍&nbsp; x 1 | [Github](https://github.com/Sipal00) | [Linkedin]
 
 Mostafa Majeed | 👍&nbsp; x 1 | [Github]( https://github.com/mstafamajid) |  [Linkedin](https://www.linkedin.com/in/mustafa-majid-166327224) | [Stack Overflow](https://stackoverflow.com/users/17595137/mustafa-majid) 
 
-Karwan Msto
+Karwan Msto  [Github](https://github.com/KarwanMB) |  [Linkedin](https://www.linkedin.com/in/karwan-msto-98a3a4154/) | [Stack Overflow](https://stackoverflow.com/users/17595131/karwan-msto-barzani) 
 
 Ali Farhad [Github](https://github.com/1-Ali-1/) |  [Linkedin](https://www.linkedin.com/in/ali-farhad-90b4b8198) | [Stack Overflow](https://stackoverflow.com/users/14529397/alifarhad-ali) 
 
